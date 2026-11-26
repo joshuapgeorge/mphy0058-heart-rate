@@ -5,6 +5,7 @@ Estimating heart rate from a PPG optical sensor signal (CSV) and a video of a fi
 ## Team
 - Joshua Perumpampallil (GitHub: Joshuapgeorge)
 - Harvey Martlew (Github: harveymartlew)
+- Alexia Mangana (GitHub: alexiamag)
 
 ## How to run
 1. `pip install -r requirements.txt`
