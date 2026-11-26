@@ -1,0 +1,13 @@
+# Coursework video is 118 MB, over GitHub's 100 MB limit
+*.MOV
+*.mov
+
+# Python and Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Word creates these lock files while the report is open
+~$*.docx
+
+# Mac system files
+.DS_Store
